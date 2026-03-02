@@ -57,14 +57,17 @@ Possuo experiência em automação utilizando Python e Delphi, incluindo desenvo
 
 ## 📈 Projetos em Destaque
 
-🔹 **Dashboard de Vendas Interativo**  
-Análise de desempenho comercial com indicadores estratégicos e visualizações dinâmicas.
+🔹 **[Projeto PreviPrato IA](https://github.com/lumandrade/Projeto_PreviPratoIA)**  
+Modelo de Machine Learning desenvolvido em Python, com construção de pipeline de dados, tratamento, análise exploratória e aplicação de modelo preditivo.
 
-🔹 **Automação de Relatórios com Python**  
-Script para tratamento e consolidação automática de dados.
+🔹 **[Dashboard Power BI](https://github.com/lumandrade/potfolio-PowerBI)**  
+Dashboards interativos com modelagem de dados, criação de KPIs e visualizações estratégicas para apoio à tomada de decisão.
 
-🔹 **Análise Exploratória de Dados**  
-Identificação de padrões, outliers e geração de insights estratégicos.
+🔹 **[Automação e Análise com Python](https://github.com/lumandrade/portfolio-python)**  
+Scripts para tratamento, consolidação e automação de processos utilizando Python (Pandas, lógica e manipulação de dados).
+
+🔹 **[Fundamentos de Python](https://github.com/lumandrade/python-basico-microatividades)**  
+Conjunto de exercícios práticos abordando lógica de programação, estruturas condicionais, repetição, funções e cálculos.
 
 ---
 
