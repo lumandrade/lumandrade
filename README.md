@@ -5,17 +5,23 @@
 Sou profissional focada em transformar dados em decisões estratégicas.
 Atuo com automação de processos, modelagem de dados e desenvolvimento de dashboards interativos para geração de insights.
 
-Possuo experiência em automação utilizando Python e Delphi, desenvolvendo rotinas para otimização de processos internos, integração de sistemas e aumento de eficiência operacional.
+Possuo experiência em automação utilizando Python e Delphi, incluindo desenvolvimento de rotinas no ERP Winthor, com foco em otimização de processos internos, integração de sistemas e aumento de eficiência operacional.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 📊 Experiência com Power BI (DAX, Modelagem, Power Query)
-- 🗄️ Consultas e otimização com SQL
-- 🐍 Automação e análise com Python
-- 🔄 Criação de processos automatizados para ganho de eficiência
-- 📈 Desenvolvimento de indicadores estratégicos (KPIs)
+📊 Experiência com Power BI (DAX, Modelagem, Power Query)
+
+🗄️ Consultas e otimização com SQL
+
+🐍 Automação e análise com Python
+
+🖥️ Automação no ERP Winthor utilizando Delphi
+
+🔄 Criação de processos automatizados para ganho de eficiência
+
+📈 Desenvolvimento de indicadores estratégicos (KPIs)
 
 ---
 
@@ -29,6 +35,8 @@ Possuo experiência em automação utilizando Python e Delphi, desenvolvendo rot
 
 ### 🐍 Linguagem
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Delphi](https://img.shields.io/badge/Delphi-ED1C24?style=for-the-badge&logo=embarcadero&logoColor=white)
 
 ### ⚙️ Automação & Análise
 - Pandas
