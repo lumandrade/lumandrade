@@ -72,7 +72,7 @@ Conjunto de exercícios práticos abordando lógica de programação, estruturas
 
 ## 📬 Contato
 
-- 💼 www.linkedin.com/in/lumawww-andrade-ferreira-2b973a245 
+- 💼 Linkedin: www.linkedin.com/in/lumawww-andrade-ferreira-2b973a245 
 - 📧 Email: luma.comercialandrade@gmail.com  
 
 ---
