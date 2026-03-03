@@ -43,7 +43,6 @@ Possuo experiência em automação utilizando Python e Delphi, incluindo desenvo
 - Numpy
 - Power Query
 - DAX
-- Excel Avançado
 
 ---
 
